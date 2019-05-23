@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline&display=swap');
+
+#nameabout {
+  width: 40%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left: 28%;
+  margin-top: 15%;
+  border-color: black;
+  border-width: 5px;
+  border-style: double;
+  text-align: center;
+  font-size: 4em;
+  font-family: 'Fascinate Inline', cursive;
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+}
+
+a {
+  width: 50%;
+}
+
+#header {
+  width: 100%;
+  background-color: black;
+  color: white;
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 3em;
+  text-align: center;
+  padding: 1%;
+}
+
+#projectheader {
+  width: 100%;
+  background-color: black;
+  color: white;
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 3em;
+  text-align: center;
+  padding: 1%;
+}
+
+#home {
+  margin-top: 5%;
+}
+
+.titleBox {
+  margin-left: 35%;
+  width: 30%;
+  padding: 1%;
+  margin-bottom: 3%;
+  border-color: black;
+  border-width: 5px;
+  border-style: double;
+  text-align: center;
+  font-family: monospace;
+  font-size: 1.4em;
+  cursor: pointer;
+  color: black;
+}
+
+#sections {
+  margin-left: 35%;
+  margin-top: 2%;
+  width: 30%;
+  padding: 1%;
+  margin-bottom: 3%;
+  border-color: black;
+  border-width: 5px;
+  border-style: double;
+  text-align: center;
+  font-family: monospace;
+  font-size: 1.8em;
+  color: black;
+  font-weight: bold;
+}
+
+#projectsbox {
+  margin-left: 10%;
+  margin-top: 2%;
+  width: 80%;
+  padding: 2%;
+  margin-bottom: 3%;
+  border-color: black;
+  border-width: 5px;
+  border-style: double;
+  font-family: monospace;
+  font-size: 1.4em;
+  color: black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#whenitrains {
+  width: 49%;
+  margin-right: 2%;
+  height: 49%;
+  margin-bottom: 2%;
+}
+
+#loveshanghai {
+  width: 49%;
+  margin-right: 2%;
+  height: 49%;
+}
+
+#soundsofcolor {
+  width: 49%;
+  height: 49%;
+  margin-bottom: 2%;
+}
+
+#caprica {
+  width: 49%;
+  height: 49%;
+}
+
+#projectlink {
+  width: 96%;
+  height: 96%;
+  padding: 2%;
+}
+
+#trashley {
+  width: 49%;
+  height: 49%;
+}
+
+#aroundaboutbox {
+  width: 96%;
+  margin: 2%;
+  /* border-color: black;
+  border-width: 5px;
+  border-style: double; */
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#aboutpart {
+  margin: 1%;
+  padding: 1%;
+  width: 20.2%;
+  border-color: black;
+  border-width: 5px;
+  border-style: double;
+  font-family: monospace;
+  font-size: 1.4em;
+}
+
+#center {
+  text-align: center;
+}
+
+#piepic {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+#nyulogo {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 23%;
+  margin-bottom: 23%;
+}
+
+#ima {
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 8%;
+}
+
+#camera {
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 12%;
+  margin-bottom: 12%;
+}
+
+#slanguagelogo {
+  width: 40%;
+  margin-left: 31.5%;
+  margin-top: 2%;
+}
+
+#halfwidth1 {
+  width: 46.67%;
+  margin-left: 3.3%;
+}
+
+#halfwidth2 {
+  width: 46.67%;
+  margin-left: 1.7%;
+}
+
+#paperprototypevideo {
+margin-right: 3.33%;
+margin-left: 3.33%;
+width: 45%;
+margin-bottom: 2%;
+}
+
+#fullwidth {
+  width: 100%;
+  text-align: center;
+}
